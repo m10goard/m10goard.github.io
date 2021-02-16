@@ -1,0 +1,9 @@
+name: "m10goard.github.io"
+output_dir: "."
+navbar:
+  title: "Matt Goard"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
