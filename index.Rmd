@@ -2,7 +2,10 @@
 title: "About Me"
 ---
 
-![](/This PC/Pictures/IMG_1166.jpg)
+<center>
+<p><img src="IMG_1166.jpg" style = "height:400px"><img src="mom.png" style = "height:400px"></p>
+</center><br>
+
 
 After playing sports for over eighteen years, it is only natural that I should want to work in sports as well. As a senior studying mathematics, concentrating and minoring in statistics, and earning a certificate in sports analytics, I am putting myself in a position to be a very effective analyst.
 
