@@ -9,3 +9,12 @@ navbar:
       href: about.html
     - text: "Hockey Analytics"
       href: hockey.html
+      
+output:
+  html_document:
+      theme: cosmo
+      highlight: textmate
+      include:
+        afterbody: footer.html
+      css: webpage.css
+        
