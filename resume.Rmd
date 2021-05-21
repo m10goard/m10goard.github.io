@@ -1,0 +1,42 @@
+---
+title: "Resume"
+author: "Matt Goard"
+date: "5/21/2021"
+output: html_document
+---
+
+<hr>
+
+## Key Skills
+
+* Computer Coding (R language)
+*	Microsoft Office
+*	Time Management
+*	Problem Solving
+*	Proactive
+*	Data Analysis
+*	Research skills
+*	Teamwork
+
+## Education
+
+* **Western Guilford High School** <br>
+2014-2018 | High School Diploma | Microsoft Office Specialist | 
+
+* **Appalachian State University** <br>
+2019-Present | Mathematics Major | Statistics Concentration and Minor| Sports Analytics Certificate | Accepted into Graduate School
+
+## Experience
+
+* **Appalachian State University Baseball** <br>
+Tagged Games in TrackMan | Data Analyst
+
+* **Big Data Cup** <br>
+Competed in a competition in which I completed two research projects for the NHL
+
+* **U.S. Navy** <br>
+Seaman Apprentice | Medically Retired | Was in SEAL training
+
+
+
+<hr>
