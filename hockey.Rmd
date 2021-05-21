@@ -12,6 +12,8 @@ Going into this competition I had a limited knowledge on concepts of statistical
 
 ## Analyzing Location and Shot Type to Improve Scoring
 
+[Click here to read this paper](https://drive.google.com/file/d/14un23tAY2Mx_NOzAgFKFiIH3bmRm0kVD/view?usp=sharing)
+
 In this paper I decided to analyze the Olympic data for woman's hockey teams. After finding the team with the highest goal percentage, I analyzed how and where that team scored goals. By using bar graphs and hexbin charts (a locational graph in which frequency of events are measured in the shape of hexagons), which are very similar to heatmaps, I was able to model an approach to scoring.
 
 While my paper could have been improved through the use of bootstrapping and even multiple regression models, I was able to learn about a new type of graph, the hexbin chart. I also learned how to overlay a plot over a picture so that I could show where each shot location was on a hockey rink.
