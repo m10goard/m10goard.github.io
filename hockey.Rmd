@@ -1,5 +1,5 @@
 ---
-title: "Hockey"
+title: "Hockey Analytics"
 ---
 
 The Big Data Cup is a popular analytics competition regarding hockey data. I entered as a contestant in the 2021 Big Data Cup. In this competition, participants were given a set of minor league hockey data and data regarding the Olympic woman's hockey teams.
