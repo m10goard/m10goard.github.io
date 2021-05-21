@@ -12,7 +12,7 @@ Going into this competition I had a limited knowledge on concepts of statistical
 
 ## Analyzing Location and Shot Type to Improve Scoring
 
-[Click here to read this paper](https://docs.google.com/document/d/1wZ4hEXSPeIX6D6tB1zjMVpKjswLK9j6d7pDMBTW7GUs/edit?usp=sharing)
+[Click here to read this paper](https://drive.google.com/file/d/1VTOBp1_kJSziIyOq9luQEOBudxBwXoa3/view?usp=sharing)
 
 In this paper I decided to analyze the Olympic data for woman's hockey teams. After finding the team with the highest goal percentage, I analyzed how and where that team scored goals. By using bar graphs and hexbin charts (a locational graph in which frequency of events are measured in the shape of hexagons), which are very similar to heatmaps, I was able to model an approach to scoring.
 
@@ -22,7 +22,7 @@ I have begun learning about these statistical methods and models to create a muc
 
 ## How Success is Distributed across Hockey Periods
 
-[Click here to read this paper](https://docs.google.com/document/d/1F0cMUg-LNytTTLfNBRZsCMjAZ9Q-TGg_JUWsWuzM6hk/edit?usp=sharing)
+[Click here to read this paper](https://drive.google.com/file/d/1VTOBp1_kJSziIyOq9luQEOBudxBwXoa3/view?usp=sharing)
 
 As a baseball player, I always wondered what inning it was most important to score runs or to have success. The same question could be asked of all sports, including hockey. By determining a winner for each game and factoring each event into a category of success, I was able to view the difference between winning and losing teams and in what period they had the most success, neutral events, and unsuccessful events.
 
