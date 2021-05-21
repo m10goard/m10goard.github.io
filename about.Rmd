@@ -1,9 +1,9 @@
 ---
-title: "About This Website"
+title: "Baseball Analytics"
 ---
 
 <hr>
 
-More about this website.
+Come back soon to see a project I'm doing on pitch framing!
 
 <hr>
