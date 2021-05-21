@@ -8,7 +8,7 @@ I decided to write two research papers for this competition. Doing this allowed 
 
 Going into this competition I had a limited knowledge on concepts of statistical testing so both my papers could be improved mathematically. Fortunately I am taking more statistics classes as I further my education to learn more about these statistical concepts. What I am most proud of in these research papers was my ability to learn about hockey as I did not know much about the sport going into the competition. I also learned a lot about coding in R and this knowledge greatly influenced and improved the graphics I was able to create.
 
-### Analyzing Location and Shot Type to Improve Scoring
+## Analyzing Location and Shot Type to Improve Scoring
 
 In this paper I decided to analyze the Olympic data for woman's hockey teams. After finding the team with the highest goal percentage, I analyzed how and where that team scored goals. By using bar graphs and hexbin charts (a locational graph in which frequency of events are measured in the shape of hexagons), which are very similar to heatmaps, I was able to model an approach to scoring.
 
@@ -16,7 +16,7 @@ While my paper could have been improved through the use of bootstrapping and eve
 
 I have begun learning about these statistical methods and models to create a much more statistically sound argument.
 
-### How Success is Distributed across Hockey Periods
+## How Success is Distributed across Hockey Periods
 
 As a baseball player, I always wondered what inning it was most important to score runs or to have success. The same question could be asked of all sports, including hockey. By determining a winner for each game and factoring each event into a category of success, I was able to view the difference between winning and losing teams and in what period they had the most success, neutral events, and unsuccessful events.
 
