@@ -1,8 +1,5 @@
 ---
 title: "Resume"
-author: "Matt Goard"
-date: "5/21/2021"
-output: html_document
 ---
 
 <hr>
