@@ -21,3 +21,5 @@ I have begun learning about these statistical methods and models to create a muc
 As a baseball player, I always wondered what inning it was most important to score runs or to have success. The same question could be asked of all sports, including hockey. By determining a winner for each game and factoring each event into a category of success, I was able to view the difference between winning and losing teams and in what period they had the most success, neutral events, and unsuccessful events.
 
 In this paper I used bar graphs. This paper could have also been improved by the use of multiple regression models; however, I did not have the knowledge of how to create these models. As I have now begun to learn about these models I am also able to create a more statistically sound argument. The thing I am most proud of in this paper is how I created the bar graphs. I was able to create labels for each bar so that the quantity for each bar was shown to the reader.
+
+<hr>
