@@ -8,3 +8,4 @@ navbar:
     - text: "Baseball Analytics"
       href: about.html
     - text: "Hockey Analytics"
+      href: hockey.html
