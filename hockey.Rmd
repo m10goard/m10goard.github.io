@@ -4,28 +4,30 @@ title: "Hockey Analytics"
 
 <hr>
 
-The Big Data Cup is a popular analytics competition regarding hockey data. I entered as a contestant in the 2021 Big Data Cup. In this competition, participants were given a set of minor league hockey data and data regarding the Olympic woman's hockey teams.
+The Big Data Cup is a popular analytics competition regarding hockey data. I entered as a contestant in the 2021 Big Data Cup. In this competition, participants were given a set of minor league hockey data and data regarding the Olympic woman's hockey teams. Contestants chose the dataset that they wanted to work with and analyzed the data in ways answer their research question.
 
-I decided to write two research papers for this competition. Doing this allowed me to explore two research questions that I was interested in while also doubling my chances to win the competition.
+I submitted two research papers for this competition. This allowed me to explore two research questions that intrigued me while also doubling my chances to win the competition.
 
-Going into this competition I had a limited knowledge on concepts of statistical testing so both my papers could be improved mathematically. Fortunately I am taking more statistics classes as I further my education to learn more about these statistical concepts. What I am most proud of in these research papers was my ability to learn about hockey as I did not know much about the sport going into the competition. I also learned a lot about coding in R and this knowledge greatly influenced and improved the graphics I was able to create.
+These research papers allowed me learn about a sport that I did not have any knowledge of before. I also learned a lot about coding in R, which greatly influenced and improved the graphics I was able to create.
 
 ## Analyzing Location and Shot Type to Improve Scoring
 
 [Click here to read this paper](https://drive.google.com/file/d/1VTOBp1_kJSziIyOq9luQEOBudxBwXoa3/view?usp=sharing)
 
-In this paper I decided to analyze the Olympic data for woman's hockey teams. After finding the team with the highest goal percentage, I analyzed how and where that team scored goals. By using bar graphs and hexbin charts (a locational graph in which frequency of events are measured in the shape of hexagons), which are very similar to heatmaps, I was able to model an approach to scoring.
+In this paper I analyzed the Olympic data for women's hockey teams. After discovering the team with the highest goal percentage, I analyzed how and where that team scored goals. By using bar graphs and hexbin charts (a locational graph in which frequency of events are measured in the shape of hexagons - similar to heatmaps), I was able to model an approach to scoring.
 
-While my paper could have been improved through the use of bootstrapping and even multiple regression models, I was able to learn about a new type of graph, the hexbin chart. I also learned how to overlay a plot over a picture so that I could show where each shot location was on a hockey rink.
+Although my paper could have been improved through the use of bootstrapping and multiple regression models, I was able to learn about a new type of graph, the hexbin chart. I learned how to overlay a plot over a picture so that I could show where each shot location was on a hockey rink.
 
-I have begun learning about these statistical methods and models to create a much more statistically sound argument.
+Since writing this paper, I have learned about more statistical methods and models to create a more statistically sound argument.
 
 ## How Success is Distributed across Hockey Periods
 
 [Click here to read this paper](https://drive.google.com/file/d/1VTOBp1_kJSziIyOq9luQEOBudxBwXoa3/view?usp=sharing)
 
-As a baseball player, I always wondered what inning it was most important to score runs or to have success. The same question could be asked of all sports, including hockey. By determining a winner for each game and factoring each event into a category of success, I was able to view the difference between winning and losing teams and in what period they had the most success, neutral events, and unsuccessful events.
+As a baseball player, I always wondered what inning it was most important to score runs. The same question could be asked of any sport, including hockey. By determining a winner for each game and factoring each event into a category of success, I was able to ascertain the difference between winning and losing teams and in what period they had the most success, neutral events, and unsuccessful events.
 
-In this paper I used bar graphs. This paper could have also been improved by the use of multiple regression models; however, I did not have the knowledge of how to create these models. As I have now begun to learn about these models I am also able to create a more statistically sound argument. The thing I am most proud of in this paper is how I created the bar graphs. I was able to create labels for each bar so that the quantity for each bar was shown to the reader.
+This paper could have also been improved by the use of multiple regression models; however, I had not learned how to create these models before this research project. As I have now begun to learn about these models I am also able to create a more statistically sound argument. 
+
+The thing I am most proud of in this paper is how I created the bar graphs that I used. I learned to create labels for each bar so that the quantity for each bar was shown to the reader. I also was able to order the bars in a way that made the graphs easier for readers to understand.
 
 <hr>
