@@ -22,7 +22,7 @@ Since writing this paper, I have learned about more statistical methods and mode
 
 ## How Success is Distributed across Hockey Periods
 
-[Click here to read this paper](https://drive.google.com/file/d/1VTOBp1_kJSziIyOq9luQEOBudxBwXoa3/view?usp=sharing)
+[Click here to read this paper](https://docs.google.com/document/d/1F0cMUg-LNytTTLfNBRZsCMjAZ9Q-TGg_JUWsWuzM6hk/edit?usp=sharing)
 
 As a baseball player, I always wondered what inning it was most important to score runs. The same question could be asked of any sport, including hockey. By determining a winner for each game and factoring each event into a category of success, I was able to ascertain the difference between winning and losing teams and in what period they had the most success, neutral events, and unsuccessful events.
 
