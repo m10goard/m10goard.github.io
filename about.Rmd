@@ -5,6 +5,6 @@ title: "Baseball Analytics"
 
 In this study, I wrote a detailed analysis about the catchers at Appalachian State to find the most effective catcher in terms of framing pitches.
 
-Click [here](PitchFramingPaper.html) to read this report on pitch framing
+Click [here](PitchFramingPaper.html) to read this report on pitch framing.
 
 <hr>
