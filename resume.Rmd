@@ -6,16 +6,14 @@ title: "Resume"
 
 ## Key Skills
 
-* Computer Coding (R language)
+* Computer Programming (R and Python)
 *	Microsoft Office
 *	Time Management
+* Data Analysis
 *	Problem Solving
 *	Proactive learner and worker
-*	Data Analysis
-* Team Player
 * Detail Oriented
 *	Research skills
-*	Teamwork
 * Ability to effectively work remotely, over Zoom, and in person
 
 ## Education
@@ -24,10 +22,10 @@ title: "Resume"
 2014-2018 | High School Diploma | Microsoft Office Specialist
 
 * **Appalachian State University Undergraduate Degree** <br>
-2019-Present | Mathematics Major | Statistics Concentration and Minor | Sports Analytics Certificate | 3.76 GPA
+2019-2021 | B.S. Mathematics | Statistics Concentration and Minor | Sports Analytics Certificate | 3.71 GPA
 
-* **Applachian State University Graduate School** <br>
-Set to begin graduate classes in 2021 and graduate with a Master's degree in mathematics in 2023
+* **Appalachian State University Graduate School** <br>
+2021-Present | MA Mathematics, College Teaching concentration
 
 ## Experience
 
@@ -35,10 +33,10 @@ Set to begin graduate classes in 2021 and graduate with a Master's degree in mat
 Tagged Games in TrackMan | Data Analyst
 
 * **American Legion Post 53 Redwings** <br>
-Assistant coach | Director of Social Media | 2020 - Present
+Assistant coach | Director of Social Media | 2020-Present
 
 * **Chick-fil-A** <br>
-April 2016 - February 2017 | Team Member | Drive-thru Specialist
+April 2016-February 2017 | Team Member | Drive-thru Specialist
 
 * **Big Data Cup** <br>
 Competed in a competition in which I completed two research projects for the NHL.
