@@ -5,7 +5,7 @@ title: "Hey!"
 <hr>
 
 <center>
-<p><img src="IMG_1360.jpg" style = "height:400px"><img src="mom.png" style = "height:400px"></p>
+<p><img src="IMG_1360.jpg" style = "height:400px"></p>
 </center><br>
 
 
