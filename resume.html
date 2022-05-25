@@ -13,7 +13,8 @@
 
 <title>Resume</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -56,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="webpage.css" type="text/css" />
 
 
@@ -80,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -232,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -274,35 +279,46 @@ $(document).ready(function () {
 <div id="key-skills" class="section level2">
 <h2>Key Skills</h2>
 <ul>
-<li>Computer Coding (R language)</li>
+<li>Computer Programming (R and Python)</li>
 <li>Microsoft Office</li>
 <li>Time Management</li>
+<li>Data Analysis</li>
 <li>Problem Solving</li>
 <li>Proactive learner and worker</li>
-<li>Data Analysis</li>
-<li>Team Player</li>
 <li>Detail Oriented</li>
 <li>Research skills</li>
-<li>Teamwork</li>
 <li>Ability to effectively work remotely, over Zoom, and in person</li>
 </ul>
 </div>
 <div id="education" class="section level2">
 <h2>Education</h2>
 <ul>
-<li><p><strong>Western Guilford High School</strong> <br> 2014-2018 | High School Diploma | Microsoft Office Specialist</p></li>
-<li><p><strong>Appalachian State University Undergraduate Degree</strong> <br> 2019-Present | Mathematics Major | Statistics Concentration and Minor | Sports Analytics Certificate | 3.76 GPA</p></li>
-<li><p><strong>Applachian State University Graduate School</strong> <br> Set to begin graduate classes in 2021 and graduate with a Master’s degree in mathematics in 2023</p></li>
+<li><p><strong>Western Guilford High School</strong> <br> 2014-2018 |
+High School Diploma | Microsoft Office Specialist</p></li>
+<li><p><strong>Appalachian State University Undergraduate
+Degree</strong> <br> 2019-2021 | B.S. Mathematics | Statistics
+Concentration and Minor | Sports Analytics Certificate | 3.71
+GPA</p></li>
+<li><p><strong>Appalachian State University Graduate School</strong>
+<br> 2021-Present | MA Mathematics, College Teaching
+concentration</p></li>
 </ul>
 </div>
 <div id="experience" class="section level2">
 <h2>Experience</h2>
 <ul>
-<li><p><strong>Appalachian State University Baseball</strong> <br> Tagged Games in TrackMan | Data Analyst</p></li>
-<li><p><strong>American Legion Post 53 Redwings</strong> <br> Assistant coach | Director of Social Media | 2020 - Present</p></li>
-<li><p><strong>Chick-fil-A</strong> <br> April 2016 - February 2017 | Team Member | Drive-thru Specialist</p></li>
-<li><p><strong>Big Data Cup</strong> <br> Competed in a competition in which I completed two research projects for the NHL.</p></li>
-<li><p><strong>Middle School Mentor</strong> <br> During the 2019-2020 school year I mentored middle school students who do not have positive male role models at home. This ended due to COVID-19 restrictions.</p></li>
+<li><p><strong>Appalachian State University Baseball</strong> <br>
+Tagged Games in TrackMan | Data Analyst</p></li>
+<li><p><strong>American Legion Post 53 Redwings</strong> <br> Assistant
+coach | Director of Social Media | 2020-Present</p></li>
+<li><p><strong>Chick-fil-A</strong> <br> April 2016-February 2017 | Team
+Member | Drive-thru Specialist</p></li>
+<li><p><strong>Big Data Cup</strong> <br> Competed in a competition in
+which I completed two research projects for the NHL.</p></li>
+<li><p><strong>Middle School Mentor</strong> <br> During the 2019-2020
+school year I mentored middle school students who do not have positive
+male role models at home. This ended due to COVID-19
+restrictions.</p></li>
 </ul>
 <hr>
 </div>
