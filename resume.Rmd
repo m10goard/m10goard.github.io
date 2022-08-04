@@ -6,7 +6,7 @@ title: "Resume"
 
 ## Key Skills
 
-* Computer Programming (R and Python)
+* Computer Programming (R, Python, SQL)
 *	Microsoft Office
 *	Time Management
 * Data Analysis
@@ -30,18 +30,15 @@ title: "Resume"
 ## Experience
 
 * **Appalachian State University Baseball** <br>
-Tagged Games in TrackMan | Data Analyst
+Assistant Director of Data Analytics | Tagged games in TrackMan and organized different research projects for coaching analysis.
 
 * **American Legion Post 53 Redwings** <br>
 Assistant coach | Director of Social Media | 2020-Present
 
-* **Chick-fil-A** <br>
-April 2016-February 2017 | Team Member | Drive-thru Specialist
-
 * **Big Data Cup** <br>
 Competed in a competition in which I completed two research projects for the NHL.
 
-* **Middle School Mentor** <br>
-During the 2019-2020 school year I mentored middle school students who do not have positive male role models at home. This ended due to COVID-19 restrictions.
+* **Teacher's Assistant** <br>
+Implemented strategies for students to effectively learn mathematics and assisted in various other tasks.
 
 <hr>
