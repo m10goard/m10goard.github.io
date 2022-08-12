@@ -25,20 +25,26 @@ title: "Resume"
 2019-2021 | B.S. Mathematics | Statistics Concentration and Minor | Sports Analytics Certificate | 3.71 GPA
 
 * **Appalachian State University Graduate School** <br>
-2021-Present | MA Mathematics, College Teaching concentration
+2021-Present | M.A. Mathematics, College Teaching concentration | Graduate Business Analytics Certificate
 
 ## Experience
 
 * **Appalachian State University Baseball** <br>
-Assistant Director of Data Analytics | Tagged games in TrackMan and organized different research projects for coaching analysis.
-
-* **American Legion Post 53 Redwings** <br>
-Assistant coach | Director of Social Media | 2020-Present
-
-* **Big Data Cup** <br>
-Competed in a competition in which I completed two research projects for the NHL.
+*Assistant Director of Data Analytics* <br>
+Operate and organize data from the baseball tagging system, Trackman. The data was compiled and displayed using various graphics to present to coaches to make informed decisions about coaching strategies. Also tasked to conduct research study on pitch framing to determine the most effective catcher, providing a detailed report explaining mathematical methods and data analysis to efficiently communicate understanding to the coaching staff.
 
 * **Teacher's Assistant** <br>
-Implemented strategies for students to effectively learn mathematics and assisted in various other tasks.
+Assist a professor in grading and teaching students in a College Algebra course, as well as tutor students with any mathematical questions.
+
+* **Boone Bigfoots Baseball** <br>
+*Director of Analytics and Official Scorekeeper* <br>
+Operate the scorekeeping application, GameChanger, and the baseball tagging system, Trackman. Organize and compile data from GameChanger and Trackman into a website used by our coaches to understand player performance. Website was also used to keep collegiate coaches informed on player performance. Created an umpire report to determine how accurate an umpire called balls and strikes at MLB level precision.
+
+* **American Legion Post 53 Redwings** <br>
+*Assistant coach | Director of Social Media | 2020-Present* <br>
+Assist in organizing, creating, and coaching a team of 18 high school baseball players, identified as potential collegiate athletes. Communicate upcoming events and announcements via social media while maintaining proper company image.
+
+* **Big Data Cup** <br>
+Conducted two research studies in hockey data, demonstrating statistical techniques and accurate graphics to deposit the exact location and quantity of data points.
 
 <hr>
