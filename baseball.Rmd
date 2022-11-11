@@ -19,7 +19,7 @@ Click [here](Kmeans.html) to read this report on clustering and pitch clustering
 
 For the Boone Bigfoots, I created an umpire report to determine how well an umpire calls balls and strikes with MLB level precision. This umpire report uses Trackman data to determine their accuracy. The last Bigfoots game available was printed as an example of what this report provides.
 
-Click [here](_UmpireReport.html) to view this umpire report.
+Click [here](UmpireReport.html) to view this umpire report.
 
 ## Pitching Statistics and Wins
 
