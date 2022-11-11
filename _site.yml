@@ -8,10 +8,11 @@ navbar:
     - text: "Resume"
       href: resume.html
     - text: "Baseball Analytics"
-      href: about.html
+      href: baseball.html
     - text: "Hockey Analytics"
       href: hockey.html
-      
+    - text: "Football Analytics"
+      href: football.html
 output:
   html_document:
     theme: cosmo

@@ -1,0 +1,19 @@
+---
+title: "Football Analytics"
+---
+
+<hr>
+
+## College Football Rankings and Bowl Predictions
+
+As a class assignment, I was asked to predict college football rankings and use the results of bowl games to determine the accuracy of my ranking system. This project employed the use of data scraping and statistical analyses. 
+
+Click [here](FootballRankings.html) to view this report and my results.
+
+## College Football "Superconferences"
+
+In this report, I was asked to make a conference realignment based on location as well as college football rivalries. Using a clustering algorithm, I created this realignment as well as divisions to account for rivalries and locations.
+
+Click [here](SuperConference.html) to read this report.
+
+<hr>

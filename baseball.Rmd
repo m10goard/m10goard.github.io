@@ -1,0 +1,33 @@
+---
+title: "Baseball Analytics"
+---
+<hr>
+
+## Pitch Framing
+
+In this study, I wrote a detailed analysis about the catchers at Appalachian State to find the most effective catcher in terms of framing pitches.
+
+Click [here](PitchFramingPaper.html) to read this report on pitch framing.
+
+## Pitch Clustering
+
+I was asked to write a detailed report on the `kmeans()` function and all of its arguments. I was then given data from three pitchers that play at Vanderbilt. I was tasked to create a clustering algorithm to determine what pitches these pitchers throw.
+
+Click [here](Kmeans.html) to read this report on clustering and pitch clustering.
+
+## Umpire Report
+
+For the Boone Bigfoots, I created an umpire report to determine how well an umpire calls balls and strikes with MLB level precision. This umpire report uses Trackman data to determine their accuracy. The last Bigfoots game available was printed as an example of what this report provides.
+
+Click [here](_UmpireReport.html) to see this umpire report.
+
+## Pitching Statistics and Wins
+
+For a class project, I was asked to use pitching statistics from the Lahman data set to predict wins.
+
+Attached [here](WriteUp.html) is my project.
+
+
+<hr>
+
+<hr>
