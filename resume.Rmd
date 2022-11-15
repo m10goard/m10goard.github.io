@@ -34,7 +34,7 @@ title: "Resume"
 Operate and organize data from the baseball tagging system, Trackman. The data was compiled and displayed using various graphics to present to coaches to make informed decisions about coaching strategies. Also tasked to conduct research study on pitch framing to determine the most effective catcher, providing a detailed report explaining mathematical methods and data analysis to efficiently communicate understanding to the coaching staff.
 
 * **Teacher's Assistant** <br>
-Assist a professor in grading and teaching students in a College Algebra course, as well as tutor students with any mathematical questions
+Assist a professor in grading and teaching students in a College Algebra course at Appalachian State University, as well as tutor students with any mathematical questions.
 
 * **Boone Bigfoots Baseball** <br>
 *Director of Analytics and Official Scorekeeper* <br>
