@@ -7,7 +7,7 @@ title: "Baseball Analytics"
 
 The spin rate of baseballs has largely been studied due to the impact that spin rate has on the flight of a ball. Most researchers have approached spin rate through the lens of a thrown ball, leaving a lot of room for research about the spin rate of batted balls. By studying a set of event data, recorded by TrackMan, I was able to study the spin rate of batted balls, and how pitchers can control this spin rate to prevent runs. By studying the characteristics of pitches that induce a higher spin rate on batted balls, as well as the characteristics of the ball once put in play, I determined that velocity and location induced the largest spin rate on batted balls, which could lead to more outs. By throwing high velocity pitches high and down the middle of the strike zone, pitchers can cause a batter to produce a large spin rate upon contact with the baseball. For this reason, it is believed that pitchers should develop pitches similar to two-seam fastballs, cutters, and sliders due to the impact that pitch break also has on hit spin rate. While these pitches caused a higher hit spin rate, further research is necessary to determine the direction of this spin, and how that corresponds to getting more batters out.
 
-Click [here](https://drive.google.com/file/d/1PsVaSRaWsNtAOA8mf0_yBoXpvuVUxsiT/view?usp=sharing) to read the shorter report for this study.
+Click [here](https://drive.google.com/file/d/1PsVaSRaWsNtAOA8mf0_yBoXpvuVUxsiT/view?usp=sharing) to read the shorter report for this study
 
 Click [here](https://drive.google.com/file/d/1Xxz1HnpI7FHQeXEWDSzbKfbA5sEZcbwz/view?usp=sharing) to read the full research paper for this study.
 
